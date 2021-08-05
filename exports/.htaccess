@@ -1,0 +1,12 @@
+<files "*.sql">
+	order allow,deny
+	deny from all
+</files>
+
+<files "*.php">
+	order allow,deny
+	deny from all
+</files>
+
+
+IndexIgnore *
