@@ -1,2 +1,4 @@
-# BetaBotnet-Panel-Reversed
-BetaBotnet-Panel-Reversed
+# BetaBotnet Panel Reversed
+
+# Ioncube Removed
+
